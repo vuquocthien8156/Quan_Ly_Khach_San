@@ -1,0 +1,5 @@
+D:\Năm 3\Đồ án UML\GUI_Project_PhanMem_QLKS\DTO_Project_PhanMem_QLKS\bin\Debug\DTO_Project_PhanMem_QLKS.dll
+D:\Năm 3\Đồ án UML\GUI_Project_PhanMem_QLKS\DTO_Project_PhanMem_QLKS\bin\Debug\DTO_Project_PhanMem_QLKS.pdb
+D:\Năm 3\Đồ án UML\GUI_Project_PhanMem_QLKS\DTO_Project_PhanMem_QLKS\obj\Debug\DTO_Project_PhanMem_QLKS.csprojResolveAssemblyReference.cache
+D:\Năm 3\Đồ án UML\GUI_Project_PhanMem_QLKS\DTO_Project_PhanMem_QLKS\obj\Debug\DTO_Project_PhanMem_QLKS.dll
+D:\Năm 3\Đồ án UML\GUI_Project_PhanMem_QLKS\DTO_Project_PhanMem_QLKS\obj\Debug\DTO_Project_PhanMem_QLKS.pdb
